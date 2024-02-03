@@ -34,10 +34,9 @@
 <br/>
 
 <a href="https://github.com/Dima1409/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dima1409&repo=github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dima1409" />
 </a>
 <a href="https://github.com/Dima1409/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dima1409&repo=convoychat" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dima1409&layout=compact&langs_count=8&card_width=320" />
 </a>
-
 [linkedin]: https://www.linkedin.com/in/dmytrolevchenko
