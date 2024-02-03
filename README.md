@@ -31,6 +31,7 @@
 [<img align="left" alt="linkedin" width="34px" src="https://static.vecteezy.com/system/resources/previews/018/910/726/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg"/>][linkedin]
 
 <br/>
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dima1409" />
