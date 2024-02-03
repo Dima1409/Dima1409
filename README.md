@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-[<img align="left" alt="linkedin" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/>][www.linkedin.com/in/dmytrolevchenko]
-[<img align="left" alt="phone" width="28px" src="https://img.freepik.com/premium-vector/phone-icon-logo-vector-design-template_827767-1199.jpg?w=360"/>][0971543699]
+[<img align="left" alt="linkedin" width="28px" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg"/>][linkedin]
+[<img align="left" alt="phone" width="28px" src="https://t3.ftcdn.net/jpg/03/29/05/68/360_F_329056891_P3ysnEYSn47mUrOre2gywg0ckAJXc02s.jpg"/>][phone]
 
+<br/>
+
+[linkedin]: www.linkedin.com/in/dmytrolevchenko
+[phone]: 0971543699
