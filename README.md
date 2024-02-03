@@ -9,15 +9,6 @@
 
 <br/>
 
-<a href="https://github.com/Dima1409/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dima1409&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Dima1409/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dima1409&repo=convoychat" />
-</a>
-
-<br/>
-
 ### Languages and Tools:
 
 <img align="left" alt="React" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
@@ -37,7 +28,8 @@
 
 ### Connect with me
 
-[<img align="left" alt="linkedin" width="34px" src="https://static.vecteezy.com/system/resources/previews/018/910/726/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg"/>][linkedin]
+[<img align="left" alt="linkedin" width="28px" src="https://static.vecteezy.com/system/resources/previews/018/910/726/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg"/>][linkedin]
 
 <br/>
+
 [linkedin]: https://www.linkedin.com/in/dmytrolevchenko
