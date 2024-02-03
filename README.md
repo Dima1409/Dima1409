@@ -39,4 +39,6 @@
 <a href="https://github.com/Dima1409/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dima1409&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+<br/>
 [linkedin]: https://www.linkedin.com/in/dmytrolevchenko
