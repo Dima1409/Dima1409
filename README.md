@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Dima1409/Dima1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, my name is Dima
+
+## I'm a Frontend Developer
+
+- "U+1F9D1" I really enjoy writing code
+- "U+1F393" I'm always learning something new about programming
