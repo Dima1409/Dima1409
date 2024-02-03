@@ -9,6 +9,15 @@
 
 <br/>
 
+<a href="https://github.com/Dima1409/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dima1409" />
+</a>
+<a href="https://github.com/Dima1409/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dima1409&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<br/>
+
 ### Languages and Tools:
 
 <img align="left" alt="React" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
@@ -29,16 +38,6 @@
 ### Connect with me
 
 [<img align="left" alt="linkedin" width="34px" src="https://static.vecteezy.com/system/resources/previews/018/910/726/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg"/>][linkedin]
-
-<br/>
-<br/>
-
-<a href="https://github.com/Dima1409/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dima1409" />
-</a>
-<a href="https://github.com/Dima1409/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dima1409&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 <br/>
 [linkedin]: https://www.linkedin.com/in/dmytrolevchenko
