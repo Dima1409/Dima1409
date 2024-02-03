@@ -21,12 +21,10 @@
 <img align="left" alt="MangoDB" width="28px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"/>
 <img align="left" alt="Cloudinary" width="28px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/cloudinary.png"/>
 <img align="left" alt="Git" width="28px" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png"/>
-<img align="left" alt="Postman" width="28px" src="https://assets.stickpng.com/thumbs/62cc1b51150d5de9a3dad5f8.png"/>
+<img align="left" alt="Postman" width="28px" src="https://www.svgrepo.com/show/354201/postman.svg"/>
 <img align="left" alt="Redux" width="28px" src="https://static-00.iconduck.com/assets.00/redux-icon-512x486-1n8k02rk.png"/>
 
 <br/>
-
-
 
 ### Connect with me
 
