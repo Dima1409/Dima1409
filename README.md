@@ -32,4 +32,11 @@
 
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dima1409)
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dima1409&show_icons=true&theme=tokyonight)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dima1409&hide_progress=true)
+<br/>
+
 [linkedin]: https://www.linkedin.com/in/dmytrolevchenko
