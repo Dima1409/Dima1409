@@ -37,8 +37,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="linkedin" width="28px" src="https://static.vecteezy.com/system/resources/previews/018/910/726/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg"/>][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/Dmytro_Levchenko-green?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=green&link=https://www.linkedin.com/in/dmytrolevchenko)](https://www.linkedin.com/in/dmytrolevchenko)
 
 <br/>
 
-[linkedin]: https://www.linkedin.com/in/dmytrolevchenko
