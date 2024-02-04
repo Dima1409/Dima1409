@@ -21,6 +21,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="React" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
+<img align="left" alt="TS" width="28px" src="https://www.svgrepo.com/show/374144/typescript.svg"/>
 <img align="left" alt="Node" width="28px" src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png"/>
 <img align="left" alt="Html5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>
 <img align="left" alt="Css" width="28px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
