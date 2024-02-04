@@ -38,6 +38,7 @@
 ### Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/Dmytro_Levchenko-green?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=green&link=https://www.linkedin.com/in/dmytrolevchenko)](https://www.linkedin.com/in/dmytrolevchenko)
+[![Mail Badge](https://img.shields.io/badge/Dmytro_Levchenko-green?style=flat&logo=gmail&logoColor=white&labelColor=blue&color=orange&mailto:dmytrolevchenko22@gmail.com)](mailto:dmytrolevchenko22@gmail.com)
 
 <br/>
 
